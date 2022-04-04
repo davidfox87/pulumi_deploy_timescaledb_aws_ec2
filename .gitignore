@@ -1,0 +1,5 @@
+*.pyc
+venv/
+.ssh
+__pycache__/
+Pulumi.dev.yaml
